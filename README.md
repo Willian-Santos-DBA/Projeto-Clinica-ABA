@@ -43,14 +43,14 @@ Entidades: Pacientes, Psicólogos, Sessões e Financeiro.
 
 
 Relacionamentos: Um paciente realiza muitas sessões (1:N).
-+1
+
 
 
 Normalização: Aplicação da 1ª Forma Normal (1FN) para garantir que não existam campos repetidos e para manter a atomicidade dos dados.
 
 3. Modelo Físico (Implementação)
 Os scripts SQL foram adaptados para os 4 principais consoles do mercado, garantindo a integridade referencial através do uso estratégico de Chaves Primárias (PK) e Chaves Estrangeiras (FK).
-+2
+
 
 SQL
 -- Exemplo de Integridade Referencial (Tabela de Sessões)
@@ -63,11 +63,12 @@ CREATE TABLE Sessoes (
 );
 
 🚀 Como Visualizar
+
 Os diagramas e Scripts estão disponíveis na pasta /2.0 Modelo Conceitual e /3.0 Modelo Lógico
 
 Os scripts de criação das tabelas podem ser encontrados na pasta /4.0 Modelo Físico para o banco de sua preferência.
 
 O formulário de entrada de dados via VBA está na pasta /VBA, demonstrando a conexão entre o Front-end (Excel) e o Back-end.
 
-Desenvolvido por Willian Santos
-Psicólogo Especializado e Graduando em Banco de Dados - DBA
+Desenvolvido por Willian Santos - 
+ Psicólogo Especializado e Graduando em Banco de Dados - DBA
