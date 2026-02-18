@@ -3,7 +3,7 @@ Modelagem e implementação de banco de dados aplicada ao contexto clínico de P
 
 📝 Sobre o Projeto
 Este projeto faz parte dos meus estudos em Banco de Dados e foi desenvolvido para conectar a teoria acadêmica com a minha realidade profissional como Psicólogo. O objetivo é estruturar um sistema que gerencie de forma eficiente o acompanhamento de pacientes, registros de sessões e a evolução terapêutica.
-+2
+
 
 🛠️ Tecnologias e Ferramentas
 
@@ -11,11 +11,12 @@ Modelagem: brModelo / Lucidchart
 
 
 SGBDs: MySQL, PostgreSQL, SQL Server e Oracle 
-+3
+
 
 
 Linguagens: SQL (DDL/DML) e VBA (Integração com Excel) 
-+2
+
+
 
 📐 Estrutura do Projeto
 1. Modelo de Negócio (Minimundo)
@@ -23,15 +24,15 @@ O sistema baseia-se nas seguintes regras de negócio:
 
 
 Pacientes: Crianças assistidas que possuem responsáveis cadastrados.
-+1
+
 
 
 Sessões: Atendimentos conduzidos por mim (Psicólogo).
-+1
+
 
 
 Relatórios: Cada sessão gera um relatório de evolução detalhado para acompanhamento clínico.
-+1
+
 
 
 Financeiro: Controle de valores por sessão e faturamento.
