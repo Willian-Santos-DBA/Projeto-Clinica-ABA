@@ -71,4 +71,4 @@ Os scripts de criação das tabelas podem ser encontrados na pasta /4.0 Modelo F
 O formulário de entrada de dados via VBA está na pasta /VBA, demonstrando a conexão entre o Front-end (Excel) e o Back-end.
 
 Desenvolvido por Willian Santos - 
- Psicólogo Especializado e Graduando em Banco de Dados - DBA
+ Psicólogo Especializado e Graduando em Banco de Dados (DBA)
